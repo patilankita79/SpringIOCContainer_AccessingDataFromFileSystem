@@ -1,4 +1,4 @@
-# Spring IOC Container - Accessing Data From File System
+# Spring IOC Container - Accessing Metadata From File System
 Understanding Spring IOC container - ApplicationContext which gets instructions by reading configuration metadata(either XML or annotations). For this project XML metadata is used
 <hr>
 
